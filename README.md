@@ -1,5 +1,5 @@
 # giac_index
-Simple for formatting large .tsv files to docx in a pretty format
+Simple script for formatting large .tsv files to docx in a pretty format
 
 <h3>Reqs </h3>
 
