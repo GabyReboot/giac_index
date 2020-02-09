@@ -12,7 +12,7 @@ document = Document()
 with open('index1.tsv','r') as original_index:
     index_ptr = csv.reader(original_index, delimiter='\t')
     #sort alphabetically by first word 
-    data = sorted(list(index_ptr))
+    data = (list(index_ptr))
     tracker=''
 
     for line in data:
